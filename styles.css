@@ -1,0 +1,17 @@
+*{
+    font-family:'montserrat', sans-serif;
+}
+
+body{
+    background-color:white ;
+    line-height: 1, 7;
+}
+
+
+.bg-primary{
+    background-color : rgba(81, 30, 30, 0.429) !important;
+   
+}
+img{
+    max-width: 50%;
+}
